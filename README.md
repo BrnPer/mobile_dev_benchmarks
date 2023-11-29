@@ -1,4 +1,4 @@
-# Mobile Development Frameworks Benchmarks 
+# Mobile Development Frameworks Benchmarks 🚄
 
 This project consists in some benchmarks created using cross-platform mobile app developments frameworks. Currently, the benchmarks are available for:
 - Flutter
@@ -10,7 +10,6 @@ This project is in a initial phase and doesn't pretend to be a extremely precise
 
 Right now the apps contains 2 benchmakrs:
 - <b>JSON Parse</b> - almost every app does some type of JSON parsing for example connecting to an API or storing data in local storage. This benchmark consists in decoding and enconding 1.000.000 times a JSON object.
-<br>
 - <b>Calculate Primes</b> - this benchmark consists in calculating primes until 100.000.
 
 The algorithms are simple and try to be as similar to each other as possible without any type of language optimization.
