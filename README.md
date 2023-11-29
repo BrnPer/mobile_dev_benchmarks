@@ -29,6 +29,14 @@ The following results were executed in a OnePlus 7 📱(Android 12 | Snapdragon 
 
 Date: 29/11/2023
 
+Flutter App:
+<img height="600" src="/pictures/flutter_app.jpg">
+
+<br>
+<br>
+.NET MAUI App:
+<img height="600" src="/pictures/maui_app.jpg">
+
 ## How to test in your devices
 For the <b>Flutter</b> project you just need to have the Flutter SDK (and all the dependencies installed) and go to its directory and run the command:
 > flutter build apk --release
